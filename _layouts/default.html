@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Det brinner ju i Australien</title>
+  <link rel="stylesheet" href="{{ site.baseurl }}/master.css">
+  <link href="https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Do+Hyeon&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+</head>
+<body>
+  <nav>
+    <a href="{{ site.baseurl }}/" id="logo">
+      <img
+        src="{{ site.baseurl }}/varmdo_koalor.png"
+        height="50"
+      >
+    </a>
+    <ul>
+    {% assign collections = site.collections %}
+    {% for c in collections %}
+      {% if c.label == 'posts' %}
+        {% continue %}
+      {% endif %}
+        <li>
+          <a href="{{c.label}}.html">{{ c.title }}</a>
+        </li>
+    {% endfor %}
+    </ul>
+  </nav>
+  <header>
+    <h1 id="title">Det brinner i Australien</h1>
+  </header>
+  <main>
+    {{ content }}
+  </main>
+  <script src="http://localhost:35729/livereload.js"></script>
+</body>
+</html>

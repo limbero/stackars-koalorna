@@ -1,0 +1,9 @@
+---
+layout: default
+---
+{% assign koalor = site.koalor %}
+{% for c in koalor %}
+    <article>
+      {{c.content}}
+    </article>
+{% endfor %}

@@ -1,0 +1,17 @@
+baseurl: /stackars-koalorna
+repository: limbero/stackars-koalorna
+collections:
+  koalor:
+    title: "Koalor"
+    order: 1
+    output: true
+  eukalyptus:
+    title: "Eukalyptus"
+    order: 2
+    output: true
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: default

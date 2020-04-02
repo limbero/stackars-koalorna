@@ -1,0 +1,74 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+p {
+  font-family: 'PT Serif', serif;
+}
+nav, h1, h2, h3 {
+  font-family: 'Do Hyeon', sans-serif;
+  text-align: center;
+}
+h1 {
+  font-size: 2rem;
+}
+
+nav {
+  display: block;
+  background-color: #FFF;
+
+  position: sticky;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 80px;
+
+  text-transform: uppercase;
+}
+#logo {
+  text-align: left;
+}
+#logo img {
+  padding: 15px;
+  display: inline-block;
+  vertical-align: middle;
+}
+nav ul {
+  list-style-type: none;
+  display: inline-block;
+}
+nav ul li {
+  display: inline-block;
+  margin: 0 30px;
+  font-size: 1.35rem;
+}
+nav a {
+  color: #000;
+  text-decoration: none;
+}
+nav a:hover {
+  color: #5B5;
+}
+
+header {
+  background-image: url("koala.jpg");
+  background-size: cover;
+  padding-top: 350px;
+  height: 100px;
+}
+#title {
+  font-family: 'Abril Fatface', cursive;
+  text-transform: none;
+  font-size: 4rem;
+  color: #FFF;
+  margin: 0;
+}
+
+article {
+  width: 640px;
+  margin: 30px auto;
+}
+article:not(:last-of-type) {
+  padding-bottom: 30px;
+  border-bottom: 1px solid #666;
+}
