@@ -13,6 +13,10 @@ collections:
     title: "Intervju"
     order: 3
     output: true
+  historia:
+    title: "Historia"
+    order: 4
+    output: true
 defaults:
   -
     scope:
