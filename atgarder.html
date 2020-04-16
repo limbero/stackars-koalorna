@@ -1,0 +1,9 @@
+---
+layout: default
+---
+{% assign texter = site.atgarder %}
+{% for t in texter %}
+    <article>
+      {{t.content}}
+    </article>
+{% endfor %}
