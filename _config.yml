@@ -21,6 +21,10 @@ collections:
     title: "Problem"
     order: 5
     output: true
+   atgarder:
+    title: "Åtgärder"
+    order: 6
+    output: true
 defaults:
   -
     scope:
