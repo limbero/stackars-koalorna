@@ -21,7 +21,7 @@ collections:
     title: "Problem"
     order: 5
     output: true
-   atgarder:
+  atgarder:
     title: "Åtgärder"
     order: 6
     output: true
