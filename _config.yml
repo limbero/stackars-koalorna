@@ -17,6 +17,10 @@ collections:
     title: "Historia"
     order: 4
     output: true
+  problem:
+    title: "Problem"
+    order: 5
+    output: true
 defaults:
   -
     scope:
