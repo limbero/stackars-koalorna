@@ -3,11 +3,11 @@ repository: limbero/stackars-koalorna
 collections:
   koalor:
     title: "Koalor"
-    order: 1
-    output: true
-  eukalyptus:
-    title: "Eukalyptus"
     order: 2
+    output: true
+  omoss:
+    title: "Om oss"
+    order: 1
     output: true
 defaults:
   -
