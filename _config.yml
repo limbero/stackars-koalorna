@@ -2,12 +2,16 @@ baseurl: /stackars-koalorna
 repository: limbero/stackars-koalorna
 collections:
   koalor:
-    title: "Koalor"
+    title: "Om koalor"
     order: 2
     output: true
   omoss:
     title: "Om oss"
     order: 1
+    output: true
+  intervju:
+    title: "Intervju"
+    order: 3
     output: true
 defaults:
   -
