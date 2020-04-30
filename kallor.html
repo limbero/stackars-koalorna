@@ -1,0 +1,9 @@
+---
+layout: default
+---
+{% assign texter = site.kallor %}
+{% for t in texter %}
+    <article>
+      {{t.content}}
+    </article>
+{% endfor %}
