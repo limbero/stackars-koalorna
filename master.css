@@ -35,12 +35,13 @@ nav {
 }
 nav ul {
   list-style-type: none;
-  display: inline-block;
+  padding-inline-start: 0;
+  display: inline-flex;
+  width: calc(100% - 229px);
+  justify-content: space-evenly;
 }
 nav ul li {
-  display: inline-block;
-  margin: 0 30px;
-  font-size: 1.35rem;
+  font-size: 1.25rem;
 }
 nav a {
   color: #000;
