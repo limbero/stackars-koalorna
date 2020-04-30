@@ -25,6 +25,10 @@ collections:
     title: "Åtgärder"
     order: 6
     output: true
+  kallor:
+    title: "Källor"
+    order: 7
+    output: true
 defaults:
   -
     scope:
