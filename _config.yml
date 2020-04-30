@@ -10,15 +10,15 @@ collections:
     order: 1
     output: true
   intervju:
-    title: "Intervju"
-    order: 3
+    title: "Problem och konsekvenser"
+    order: 4
     output: true
   historia:
     title: "Historia"
-    order: 4
+    order: 3
     output: true
   problem:
-    title: "Problem"
+    title: "Slutsats"
     order: 5
     output: true
   atgarder:
