@@ -2,4 +2,4 @@
 layout: default
 ---
 # Extremt gott
-jajaja
+Vi är tre studenter bla bla bla
