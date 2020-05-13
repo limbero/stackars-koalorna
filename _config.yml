@@ -9,17 +9,17 @@ collections:
     title: "Om oss"
     order: 1
     output: true
-  intervju:
-    title: "Problem och konsekvenser"
-    order: 4
+  slutsats:
+    title: "Slutsats"
+    order: 5
     output: true
   historia:
     title: "Historia"
     order: 3
     output: true
   problem:
-    title: "Slutsats"
-    order: 5
+    title: "Problem och konsekvenser"
+    order: 4
     output: true
   atgarder:
     title: "Åtgärder"
