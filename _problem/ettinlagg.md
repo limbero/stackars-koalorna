@@ -2,7 +2,6 @@
 layout: default
 ---
 # Konsekvenser om koalan försvinner
-Närmare en halv miljard djur tros ha dött i och med bränderna i Australien varav cirka 8000 av dessa beräknas vara koalor, menar Aftonbladet i en artikel publicerad 2020-01-03. 
 
 Närmare en halv miljard djur tros ha dött i och med bränderna i Australien varav cirka 8000 av dessa beräknas vara koalor, menar Aftonbladet i en artikel publicerad 2020-01-03. 
 Att så många koalor har dött har till stor del att göra med att de inte är tillräckligt snabba - deras långsamma rörelsemönster och upp mot 20 timmars sömn per dygn gör att de blir ett enkelt byte för lågorna. 
