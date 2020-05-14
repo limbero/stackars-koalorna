@@ -18,7 +18,7 @@ ekonomi. Människor från hela världen kommer för att se koalor i djurparker o
 
 Koalan går även att finna som tryck på kläder och textilier. På bilden nedan kan vi se en av hemsidans läsare, Maja Matsdotter i sällskap av hunden Tussebert, bära en typisk “turist-tröja” från Australien. På tröjan ser vi en koala som står som representant för landets kultur och sevärdheter. 
 
-(Bild på maja)
+![bild på maja]({{ site.url }}/assets/Maja koala tusse.JPG)
 
 Tyvärr finns det som med mycket en baksida med all kommersiell upphaussning kring denna art. Turismen bidrar till ökade utsläpp av växthusgaser som på lång sikt kan vara förödande för artens överlevnad. Bara mellan år 1990 och 2010 reducerades mängden koalor i Queensland och New South Wales med 42% skriver Naaman Zhou på thegaurdian.com. Fortsätter vi så här befarar ett flertal forskare att arten riskerar att dö ut redan år 2050.
 
