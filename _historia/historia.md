@@ -10,6 +10,6 @@ John Prince var den första Européen att dokumentera koalans existens. Han besk
 
 När den nya kolonien utvecklades, började den stora avskogningen för odlingsmark och med detta minskade koalornas naturliga habitat. Europeerna ansåg Koalans päls som en god bytesvara vilket gjorde att miljontals koalor sköts för sin päls fram tills 1930.
 
-![bild på australiens stater]({{ site.baseurl }}/assets/karta-över-australien-stater.JPG)
+![bild på australiens stater]({{ site.baseurl }}/assets/karta-över-australien-stater.jpg)
 
 År 1924 var Koalor utrotningshotade i södra Australien, extremt minskade i New South Wales, och man uppskattar att antalet Koalor var nere på 500 i Victoria. Under denna tidsperiod förflyttades pälshandeln norrut till Queensland. 1919 tillkännagav  Qld-regeringen en sex månaders öppen jaktsäsong på Koalor, och enbart under den perioden dödades 1 miljon Koalor. Säsongen var officiellt över tills 1927, när säsongen åter öppnades, slaktades över 800 000 Koalor på drygt en månad. Offentliga uppgörelser av slakten tvingade regerande i alla stater att förklara Koalan som en "skyddad art" i slutet av 1930-talet. Inga sådana lagar infördes emellertid för att skydda gummiträd som Koalas förlitar sig för sin mat och skydd. Detta är fortfarande läget för Koalan. 
