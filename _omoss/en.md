@@ -2,6 +2,7 @@
 layout: default
 ---
 # Om oss
+Bild på oss?
 Vi är fyra elever som går andra året på Värmdö Gymnasium. Sedan en tid tillbaka har vi arbetat med ett ämnesöverskridande projekt med fokus på Australien. 
 
 Vi studerar koalan - orsaker bakom artens hot att utrotas, konsekvenser som blir om detta sker och konsekvenser vi redan ser idag samt åtgärder till problemet. Vi presenterar även koalan som art för att läsarna ska känna empati för djuret och förstå allvaret i denna situation.
