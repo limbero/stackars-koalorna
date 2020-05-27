@@ -10,3 +10,5 @@ Koalan har funnits i Australiens västra och södra delstater men har under de s
 Tyvärr innebär förstörelsen och fragmenteringen av deras livsmiljö att de tvingas lämna sitt hem för att leta efter en annan plats att bosätta sig på. Under denna vandring stöter de många farligheter som bilar, attacker av hundar eller sjukdomar som klamydia.
 Tusentals koalor dör varje år då de är extremt känsliga för klimat och naturförändringar och sedan 2012 är koalorna utropade som "sårbara" och har lagts till på listan över hotade djur.
 Vi har redan tappat 1 av 4 koalor under de senaste 20 åren. I denna takt kan koalapopulationer utrotas redan 2050.
+
+Lägg in bild på Koala 
