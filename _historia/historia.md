@@ -6,7 +6,7 @@ Koalan och koala liknande djur utvecklades på den Australiska kontinenten för 
 
 Rent allmänt om koalan kan sägas att den har flera karaktärsdrag, anpassade till dess trädlevande tillvaro. Ovanför bäckenet har de ett parti med särskilt tjock och grov päls vilket förhindrar att den glider ner från grenarna. Tummen och pekfingret kan hållas mot de övriga tre fingrarna, vilket tillsammans med stortån som kan göras oberoende av de andra, ger en bra gripförmåga. Vassa klor hjälper koalan till ett fast tag i eukalyptusträdens släta bark. Allt detta gör detta koalan till en utmärkt klättrare.
 
-<img alt="bild på koalaklor" src="{{ site.baseurl }}/assets/Koalaklor.jpg" style="width: 50%; display: block; margin: 0 auto;">
+<img alt="bild på koalaklor" src="{{ site.baseurl }}/assets/Koalaklor.jpg" style="width: 75%; display: block; margin: 0 auto;">
 
 
 John Prince var den första Européen att dokumentera koalans existens. Han beskrev dem i sin text om sin resa till de blå bergen nära Sydney 1798. Koalan fick sitt vetenskapliga namn, phascolarctos cinereus, 1816  som betyder “askgrå pung björn.”  Så småningom upptäcktes det att koalan inte var en björn utan en medlem av en specialiserad grupp av däggdjur som kallas pungdjur, som föder barn för tidigt och bär dem sedan i sin pung. Idag bor de flesta pungdjur i Australien och Papua Nya Guinea.
