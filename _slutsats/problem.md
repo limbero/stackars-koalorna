@@ -42,4 +42,4 @@ Koalan drar till sig mycket turism men turismen har dessvärre en baksida. I och
  
  
 
-Skriven av samtliga.
+*Skriven av samtliga*
