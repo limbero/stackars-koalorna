@@ -22,3 +22,6 @@ Tyvärr finns det, som med mycket, en baksida med all kommersiell upphaussning k
 Med den globala uppvärmningen förändras klimatet på flera håll i världen, varmt och torrt väder blir allt vanligare i och med klimatförändringarna och detta väder är det “idealiska förhållandena för skogsbränderna” skriver Naturskyddsföreningen på sin hemsida under rubriken *Skogsbränder och klimatförändringar – hur hänger de ihop?*. 
 
 
+Skriven av Clara Engfors
+
+
