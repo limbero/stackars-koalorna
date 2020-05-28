@@ -11,7 +11,7 @@ Thornéus Ebba, “En halv miljard djur dödade i skogsbränderna”, *Aftonblad
 
 
 ## Webbadresser
-[Australian Koala Foundation](savethekoala.com/about-koalas/history-koalas) (Hämtad 2020-05-12)
+Australian Koala Foundation https://www.savethekoala.com/about-koalas/history-koalas (Hämtad 2020-05-12)
 
 Genesis  https://genesis.nu/i/artiklar/om-forntidens-och-nutidens-koalor/ (Hämtad 2020-05-12)
 
