@@ -2,6 +2,6 @@
 layout: index
 ---
 
-# Hej
+# Välkommen till vår hemsida!
 
-Här är vårt projektarbete eller vad det nu är.
+Detta är hemsidan vi använder för att belysa och beskriva koalans situation idag och vad det går att göra för att hjälpa till!
