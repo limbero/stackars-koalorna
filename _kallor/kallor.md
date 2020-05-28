@@ -20,7 +20,7 @@ Thornéus Ebba, “En halv miljard djur dödade i skogsbränderna”, *Aftonblad
 John Moen, Chris Woolwine-Moen, ”Australien", [Nationalencyklopedin](https://www.worldatlas.com/feature/what-is-the-role-of-koalas-in-the-ecosystem.html), 2020-05-07, (hämtad 2020-05-13).
   [Längre version av artikeln](http://www.ne.se/uppslagsverk/encyklopedi/lång/australien)
 
-Utsläppsrätt.se https://www.utslappsratt.se/berakna-utslapp/berakning-av-utslapp-fran-flyg/ (hämtad 2020-05-14)
+[Utsläppsrätt.se](https://www.utslappsratt.se/berakna-utslapp/berakning-av-utslapp-fran-flyg/) (hämtad 2020-05-14)
 
 [Wikipedia](https://sv.wikipedia.org/wiki/Koala), (hämtad 2020-05-07)
 
