@@ -24,4 +24,4 @@ layout: default
 10) Tyvärr har cirka 80% av koalas livsmiljö gått förlorat till mänskliga hem, torka och bränder.
 
 
-Skrivit av Alva Cederin.
+*Skriven av Alva Cederin*
