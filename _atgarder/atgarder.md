@@ -20,8 +20,8 @@ Avtalet syftar på att nå målen till år 2030, och för koalornas överlevnad 
 
 En annan anledning är att koalorna är helt beroende av träden för sin överlevnad, de transporterar sig mellan grenar och undviker gärna marken.Men just nu skövlas hundratals träd varje dag, de koalorna som inte dör när bulldoozers kör ner träden, dör så småningom av hundattacker, påkörningar, stress inducerade sjukdomar och svält. Det är viktigt att sätta upp lagar för att skydda koalorna och stoppa bebyggelse och skövling i deras habitat.
 en som räddar skadade Koalor. 
-https://www.gofundme.com/f/help-thirsty-koalas-devastated-by-recent-fires/
+[Gofundme.com](https://www.gofundme.com/f/help-thirsty-koalas-devastated-by-recent-fires/)
 
  Men för att på kort sikt hjälpa koalorna i den klimat situation vi sitter i idag så krävs det att vi samarbetar med organisationer i Australien och donerar pengar för att de ska kunna fortsätta arbetet med att rädda koalorna. Det finns flera organisationer som jobbar med just detta. 
 WWF sköter en insamling där man kan “adoptera” en koala och på så sätt hjälpa skadade koalor att bli friska på sjukhus och sedan släppas ut i naturen igen.
-https://donate.wwf.org.au/donate/one-off-donation/help-koalas#gs.1fsc0w
+[WWF:s donationsida](https://donate.wwf.org.au/donate/one-off-donation/help-koalas#gs.1fsc0w)
