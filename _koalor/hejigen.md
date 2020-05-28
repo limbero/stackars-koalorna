@@ -22,3 +22,6 @@ layout: default
 9) Koalas har inte mycket energi och när de inte äter sin blad spenderar de sin tid på att  sova bland grenarna. Tro det eller inte, de kan sova i upp till 18 timmar om dagen!
 
 10) Tyvärr har cirka 80% av koalas livsmiljö gått förlorat till mänskliga hem, torka och bränder.
+
+
+Skrivit av Alva Cederin.
