@@ -5,6 +5,7 @@ layout: default
 
 ## Tidning- och tidskriftsartiklar
 Morton, Adam, More than 100 threatened species hit hard by Australian bushfires, pushing many towards extinction”, *The Guardian*, publicerad 2020-01-20, hämtad 2020-04-07. 
+
 Thornéus Ebba, “En halv miljard djur dödade i skogsbränderna”, *Aftonbladet*, publicerad 2020-01-03, hämtad 2020-03-23
 
 
