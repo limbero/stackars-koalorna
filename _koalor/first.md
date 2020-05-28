@@ -3,7 +3,7 @@ layout: default
 ---
 # Intervju
 
-<video src="koala intervju - Liten.mp4" width="400" height="250" controls preload></video>
+<video src="assets/koala intervju - Liten.mp4" width="400" height="250" controls preload></video>
 
 # Fakta om koalan
 
