@@ -26,3 +26,4 @@ Koalan är en art som har stor betydelse för det ekologiska, samhällsenliga oc
 Turismen har dessvärre en baksida. I och med bland annat transport, släpps stora mängder av växthusgasen koldioxid ut. Denna gas bidrar i sin tur till den globala uppvärmningen som förändrar klimatet på flera håll i världen och ökar på sikt risken för skogsbränder. Utöver ett direkt hot mot arten överlevnad och förstörelse av dess livsmiljö, innebär skogsbränder även förstörelse av viktiga kolsänkor.
 
 
+Skriven av samtliga.
