@@ -4,10 +4,11 @@ layout: default
 # Källförteckning
 
 ## Tidning- och tidskriftsartiklar
-Morton, Adam, More than 100 threatened species hit hard by Australian bushfires, pushing many towards extinction”, *The Guardian*, publicerad 2020-01-20, hämtad 2020-04-07. 
+Morton, Adam, ["More than 100 threatened species hit hard by Australian bushfires, pushing many towards extinction”](https://www.theguardian.com/environment/2020/jan/20/more-than-100-threatened-species-australian-bushfires-towards-extinction), *The Guardian*, publicerad 2020-01-20, hämtad 2020-04-07. 
 
-Thornéus Ebba, “En halv miljard djur dödade i skogsbränderna”, *Aftonbladet*, publicerad 2020-01-03, hämtad 2020-03-23
+Thornéus Ebba, [“En halv miljard djur dödade i skogsbränderna”](https://www.aftonbladet.se/nyheter/a/GG2g3l/en-halv-miljard-djur-dodade-i-skogsbranderna), *Aftonbladet*, publicerad 2020-01-03, hämtad 2020-03-23
 
+Ingen nämnd skribent, [“Koalasjukhus kämpar mot klamydia och hundbett”](https://www.aftonbladet.se/senastenytt/ttnyheter/utrikes/a/KveBbG/koalasjukhus-kampar-mot-klamydia-och-hundbett) *Aftonbladet*, publicerad 2016- 12- 28, hämtad 2020-03-23 
 
 
 
