@@ -1,6 +1,10 @@
 ---
 layout: default
 ---
+# Intervju
+
+<video src="koala intervju - Liten.mp4" width="320" height="200" controls preload></video>
+
 # Fakta om koalan
 
 Koalan är ett australienskt pungdjur som sedan 2012 har kategoriserats som sårbar. De lever främst i Australiens östra kustområden bland eukalyptusträd. Bland träden får de både den mat och skydd de behöver för att överleva. Det lilla djuret är så kräset att det inte ens dricker vatten utan utvinner den livsviktiga vätskan från eukalyptusbladen. Av de över hundra eukalyptusarter som finns i Australien äter koalorna endast tre eller fyra.
