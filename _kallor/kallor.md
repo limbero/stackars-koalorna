@@ -17,7 +17,7 @@ Thornéus Ebba, “En halv miljard djur dödade i skogsbränderna”, *Aftonblad
 
 [Google Maps](https://www.google.com/search?rlz=1C1GCEA_enSE812SE812&sxsrf=ALeKk00Gu9rfpb1AhzKM55jwIJP9i_He3Q%3A1589446056269&ei=qAW9XrDmD4zprgT1uIPwDw&q=arlanda+till+sydney+airport+km&oq=arlanda+till+sydney+airport+km&gs_lcp=CgZwc3ktYWIQAzoECCMQJ1DaE1iAKWCXLWgAcAB4AIABZogB2wWSAQM4LjGYAQCgAQGqAQdnd3Mtd2l6&sclient=psy-ab&ved=0ahUKEwiw2sr8-7LpAhWMtIsKHXXcAP4Q4dUDCAw&uact=5) (hämtad 2020-05-14)
 
-John Moen, Chris Woolwine-Moen Nationalencyklopedin,”Australien" [NE.se](https://www.worldatlas.com/feature/what-is-the-role-of-koalas-in-the-ecosystem.html), 2020-05-07, (hämtad 2020-05-13).
+John Moen, Chris Woolwine-Moen, ”Australien", [Nationalencyklopedin](https://www.worldatlas.com/feature/what-is-the-role-of-koalas-in-the-ecosystem.html), 2020-05-07, (hämtad 2020-05-13).
   [Längre version av artikeln](http://www.ne.se/uppslagsverk/encyklopedi/lång/australien)
 
 Utsläppsrätt.se https://www.utslappsratt.se/berakna-utslapp/berakning-av-utslapp-fran-flyg/ (hämtad 2020-05-14)
